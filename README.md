@@ -1,21 +1,29 @@
 # Lumen
 
-**Apprendre les langues en lisant et en écoutant, sur Mac.**
+**Learn languages by reading and listening, on your Mac.**
 
-Lumen transforme ce qui vous plaît (articles, livres, podcasts, vidéos YouTube) en leçons : chaque mot est repéré, traduit dans son contexte et suivi jusqu'à ce que vous le connaissiez. Pendant l'écoute, une lanterne lumineuse suit chaque mot prononcé. Un professeur de langues IA répond à vos questions.
+Lumen turns what you love (articles, books, podcasts, YouTube videos) into lessons: every word is spotted, translated in its context and followed until you know it. While you listen, a glowing lantern follows each spoken word. An AI language teacher answers your questions.
 
-Toute l'intelligence tourne sur votre Mac : pas de compte, pas d'abonnement, vos textes et votre progression restent chez vous. 31 langues, interface en français.
+All the intelligence runs on your Mac: no account, no subscription, your texts and progress stay with you. 31 languages.
 
-## [Télécharger la dernière version](https://github.com/LivingTwice/lumen-releases/releases/latest)
+## [Download the latest version](https://github.com/LivingTwice/lumen-releases/releases/latest)
 
-Pour Mac avec puce Apple (M1 ou plus récent), macOS 13 Ventura ou plus récent.
+For Macs with Apple silicon (M1 or later), macOS 13 Ventura or later.
 
-1. Téléchargez le fichier `.dmg`, ouvrez-le et glissez **Lumen** dans **Applications**.
-2. Au premier lancement, macOS bloque Lumen (l'application n'est pas encore vérifiée par Apple) : ouvrez **Réglages Système › Confidentialité et sécurité** et cliquez sur **Ouvrir quand même**.
-3. Choisissez vos langues et un profil d'IA, c'est prêt.
+1. Download the `.dmg` file, open it and drag **Lumen** into **Applications**.
+2. On first launch, macOS blocks Lumen (the app isn't verified by Apple yet): open **System Settings › Privacy & Security** and click **Open Anyway**.
+3. Choose your languages and an AI profile, and you're ready.
 
-Les nouvelles versions sont proposées directement dans l'application.
+New versions are offered directly in the app.
 
 ---
 
-Ce dépôt ne contient que les versions publiées de Lumen (fichiers d'installation et de mise à jour).
+### Français
+
+**Apprendre les langues en lisant et en écoutant, sur Mac.** Lumen transforme ce qui vous plaît en leçons : chaque mot est repéré, traduit dans son contexte et suivi jusqu'à ce que vous le connaissiez. Tout tourne sur votre Mac, sans compte ni abonnement.
+
+**[Télécharger la dernière version](https://github.com/LivingTwice/lumen-releases/releases/latest)** · Mac avec puce Apple, macOS 13 ou plus récent. Au premier lancement : **Réglages Système › Confidentialité et sécurité › Ouvrir quand même**.
+
+---
+
+This repository only contains Lumen's published versions (install and update files).
