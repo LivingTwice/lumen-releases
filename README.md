@@ -2,7 +2,7 @@
 
 **Learn languages by reading and listening, on your Mac.**
 
-Lumen turns what you love (articles, books, podcasts, YouTube videos) into lessons: every word is spotted, translated in its context and followed until you know it. While you listen, a glowing lantern follows each spoken word. An AI language teacher answers your questions.
+Lumen turns what you love (articles, books, podcasts, songs, YouTube videos) into lessons: every word is spotted, translated in its context and followed until you know it. While you listen, a glowing lantern follows each spoken word. An AI language teacher answers your questions. Discover suggests new videos, podcasts, songs and articles at your level, and a search field finds more without leaving the app.
 
 All the intelligence runs on your Mac: no account, no subscription, your texts and progress stay with you. 31 languages.
 
@@ -20,7 +20,7 @@ New versions are offered directly in the app.
 
 ### Français
 
-**Apprendre les langues en lisant et en écoutant, sur Mac.** Lumen transforme ce qui vous plaît en leçons : chaque mot est repéré, traduit dans son contexte et suivi jusqu'à ce que vous le connaissiez. Tout tourne sur votre Mac, sans compte ni abonnement.
+**Apprendre les langues en lisant et en écoutant, sur Mac.** Lumen transforme ce qui vous plaît (articles, livres, podcasts, chansons, vidéos YouTube) en leçons : chaque mot est repéré, traduit dans son contexte et suivi jusqu'à ce que vous le connaissiez. Tout tourne sur votre Mac, sans compte ni abonnement.
 
 **[Télécharger la dernière version](https://github.com/LivingTwice/lumen-releases/releases/latest)** · Mac avec puce Apple, macOS 13 ou plus récent. Au premier lancement : **Réglages Système › Confidentialité et sécurité › Ouvrir quand même**.
 
